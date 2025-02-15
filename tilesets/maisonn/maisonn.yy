@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"maison",
-    "path":"sprites/maison/maison.yy",
+    "name":"S_Tiles_Maison",
+    "path":"sprites/S_Tiles_Maison/S_Tiles_Maison.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

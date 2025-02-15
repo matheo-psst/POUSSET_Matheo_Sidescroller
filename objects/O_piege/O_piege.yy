@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"checkpoint",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Character","path":"objects/O_Character/O_Character.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_piege",
+  "eventList":[],
   "managed":true,
-  "name":"checkpoint",
+  "name":"O_piege",
   "overriddenProperties":[],
   "parent":{
     "name":"Objets",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Checkpoint",
-    "path":"sprites/S_Checkpoint/S_Checkpoint.yy",
+    "name":"enemie",
+    "path":"sprites/enemie/enemie.yy",
   },
   "spriteMaskId":null,
   "visible":true,

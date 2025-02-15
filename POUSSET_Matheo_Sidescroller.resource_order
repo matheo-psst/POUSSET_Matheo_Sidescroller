@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"S_humanmansion","order":2,"path":"sprites/S_humanmansion/S_humanmansion.yy",},
+    {"name":"S_Maison2","order":1,"path":"sprites/S_Maison2/S_Maison2.yy",},
+    {"name":"S_Maisonnain","order":3,"path":"sprites/S_Maisonnain/S_Maisonnain.yy",},
+  ],
+}

@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"repere",
-    "path":"sprites/repere/repere.yy",
+    "name":"S_Collider",
+    "path":"sprites/S_Collider/S_Collider.yy",
   },
   "spriteMaskId":null,
   "visible":false,

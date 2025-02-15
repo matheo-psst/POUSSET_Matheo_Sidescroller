@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"pannnnneau",
-    "path":"sprites/pannnnneau/pannnnneau.yy",
+    "name":"S_Panneau_1",
+    "path":"sprites/S_Panneau_1/S_Panneau_1.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
